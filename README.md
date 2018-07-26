@@ -9,7 +9,7 @@ For help getting started with Flutter, view our online
 # Animation-In-Flutter
 
 The idea of the whole project comes from
-Stephen Glidard and the purpose of the project is to practice animation in flutter
+[Stephen Grider ](https://github.com/StephenGrider) and the purpose of the project is to practice animation in flutter
 
 ## Demo
 
