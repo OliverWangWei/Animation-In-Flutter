@@ -13,4 +13,3 @@ Stephen Glidard and the purpose of the project is to practice animation in flutt
 
 ## Demo
 
-![](/Users/wangwei/Desktop/Screen Shot 2018-07-26 at 11.29.03 AM)
